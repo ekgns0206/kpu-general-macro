@@ -5,6 +5,16 @@ VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPU General macro", "KPU General macro\KPU General macro.csproj", "{2A9E0958-10E0-4B49-A03E-AA333568181C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "시연영상", "시연영상", "{F54DDF6E-6B57-4467-A120-954D2549F188}"
+	ProjectSection(SolutionItems) = preProject
+		시연영상.z01 = 시연영상.z01
+		시연영상.z02 = 시연영상.z02
+		시연영상.z03 = 시연영상.z03
+		시연영상.z04 = 시연영상.z04
+		시연영상.z05 = 시연영상.z05
+		시연영상.zip = 시연영상.zip
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

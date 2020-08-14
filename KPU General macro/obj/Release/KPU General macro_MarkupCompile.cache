@@ -4,15 +4,15 @@
 exe
 C#
 .cs
-C:\Users\dahun\Source\Repos\ekgns0206\kpu-general-macro\KPU General macro\obj\Debug\
+C:\Users\dahun\Source\Repos\ekgns0206\kpu-general-macro\KPU General macro\obj\Release\
 KPU_General_macro
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\dahun\Source\Repos\ekgns0206\kpu-general-macro\KPU General macro\App.xaml
 71261624754
 
-30-1631743597
+2634326724
 35255646755
 Control\Component\HistoryControl.xaml;Control\Container\HistoryContainer.xaml;Control\IconButton.xaml;Dialog\OptionDialog.xaml;MainWindow.xaml;Style\Colors.xaml;Style\Controls.xaml;
 
