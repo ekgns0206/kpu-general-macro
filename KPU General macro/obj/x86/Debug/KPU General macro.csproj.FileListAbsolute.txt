@@ -1,0 +1,64 @@
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\KPU General macro.exe.config
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\KPU General macro.exe
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\KPU General macro.pdb
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\CalcBinding.dll
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\DynamicExpresso.Core.dll
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\IronPython.dll
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\IronPython.Modules.dll
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\IronPython.SQLite.dll
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\IronPython.Wpf.dll
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\Microsoft.Dynamic.dll
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\Microsoft.Scripting.dll
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\OpenCvSharp.Blob.dll
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\OpenCvSharp.dll
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\OpenCvSharp.Extensions.dll
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\System.Windows.Interactivity.dll
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\IronPython.xml
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\IronPython.Modules.xml
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\IronPython.SQLite.xml
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\IronPython.Wpf.xml
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\Microsoft.Dynamic.xml
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\Microsoft.Scripting.xml
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\OpenCvSharp.pdb
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\OpenCvSharp.xml
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\OpenCvSharp.Blob.pdb
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\OpenCvSharp.Blob.xml
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\OpenCvSharp.Extensions.xml
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\bin\x86\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\Control\Component\HistoryControl.g.cs
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\Control\Container\HistoryContainer.g.cs
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\Control\IconButton.g.cs
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\Dialog\OptionDialog.g.cs
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\MainWindow.g.cs
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\App.g.cs
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\KPU General macro_MarkupCompile.cache
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\KPU General macro_MarkupCompile.lref
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\App.baml
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\Control\Component\HistoryControl.baml
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\Control\Container\HistoryContainer.baml
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\Control\IconButton.baml
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\Dialog\OptionDialog.baml
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\MainWindow.baml
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\Style\Colors.baml
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\Style\Controls.baml
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\KPU General macro.g.resources
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\KPU_General_macro.Properties.Resources.resources
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\KPU General macro.csproj.GenerateResource.cache
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\KPU General macro.csproj.CoreCompileInputs.cache
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\KPU General macro.csproj.CopyComplete
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\KPU General macro.exe
+C:\Users\dahun\Documents\kpu-general-macro\KPU General macro\obj\x86\Debug\KPU General macro.pdb
